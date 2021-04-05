@@ -7,7 +7,7 @@ for(var i = 1; i<=100; i++){					//Loop to initiate the game.
 
 
 	/*
-		if/else statement here: use % to get remainder after division.
+		if/else starts here, increment through "i" and use % to get remainder after division.
 	*/
 
     if (i % 15 == 0){console.log("FizzBuzz")}		//"FizzBuzz" has to be on top of the loop, as not to trigger three times.
